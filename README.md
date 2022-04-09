@@ -12,3 +12,14 @@ Tests were performed on the platform for five subjects to determine the performa
 
 
 
+Prospects for future work can be developed as part of our additional research master's training. Some avenues to explore include:
+
+- The decisional architecture for face recognition can be taken as it is, with adjustments to the level of the training module using artificial intelligence approaches for automatic learning (Deep learning);
+
+- A new electronic interface will be developed with the integration of artificial intelligence for voice recognition;
+
+- The adaptation of a 'Cloud' platform, for the two recognition processes;
+
+- The use of a multi-channel EEG headset should also increase autonomous navigation capabilities under different physiological conditions.
+
+
